@@ -9,6 +9,9 @@
     gap: 20px;
     padding: 50px;
 }
+.mail h1{
+    color: #ecf727;
+}
 
 .mailInputContainer>input {
     width: 300px;
